@@ -1,3 +1,7 @@
+
+Este proyecto surge de mi interés por combinar mi experiencia previa en entornos de investigación biomédica con mi formación actual en análisis de datos, aplicando técnicas modernas de análisis exploratorio, visualización e inteligencia artificial al estudio de enfermedades neurodegenerativas.
+
+
 # Parkinson-ppmi-clinical-research
 Análisis longitudinal y modelado explicable de la progresión de la enfermedad de Parkinson utilizando datos clínicos del Parkinson’s Progression Markers Initiative (PPMI)
 
