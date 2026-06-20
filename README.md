@@ -18,7 +18,7 @@ parkinson-ppmi-clinical-research/
 │
 ├── src/
 │   ├── data_processing.py
-│   ├── feature_engineering.py
+│   ├── feature_engineering.pY
 │   ├── modeling.py
 │   ├── evaluation.py
 │
